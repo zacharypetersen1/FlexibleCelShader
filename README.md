@@ -1,4 +1,4 @@
-![Title](../media/title.jpg?raw=true)
+![Title](../media/images/title.jpg?raw=true)
 
 Repository for the asset on the Unity Asset store found [here](https://assetstore.unity.com/packages/vfx/shaders/flexible-cel-shader-112979). Pull requests are welcome.
 

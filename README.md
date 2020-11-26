@@ -17,3 +17,8 @@ Multiple effects, easy to use. Nine presets provided right out of the box. Custo
 - Customizable soft and hard edge light effects built in - Works with shadow casting and recieving
 - Works using a single directional light
 - Three shaders for different border types, Clean (No Outline), Outline, and Silhouette
+
+![Title](../media/images/screen1.png?raw=true)
+![Title](../media/images/screen2.png?raw=true)
+![Title](../media/images/screen3.png?raw=true)
+![Title](../media/images/screen4.png?raw=true)

@@ -2,6 +2,8 @@
 
 Repository for the asset on the Unity Asset store found [here](https://assetstore.unity.com/packages/vfx/shaders/flexible-cel-shader-112979). Pull requests are welcome.
 
+Please view the [Getting Started PDF](https://github.com/zacharypetersen1/FlexibleCelShader/blob/main/GettingStarted.pdf) for more information on how the asset works (some details may be out of date).
+
 You should clone this repo directly into your assets folder to use the assets. If you want to move the "FlexibleCelShader" folder somewhere else, make sure you open PresetHelper.cs and update the path to the "Presets" folder on line 13.
 
 This asset does not work with Scriptable Render Pipelines, I will create a seperate repository for a version of this asset that works on SRPs soon.

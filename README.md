@@ -6,7 +6,7 @@ Please view the [Getting Started PDF](https://github.com/zacharypetersen1/Flexib
 
 You should clone this repo directly into your assets folder to use the assets. If you want to move the "FlexibleCelShader" folder somewhere else, make sure you open PresetHelper.cs and update the path to the "Presets" folder on line 13.
 
-This asset does not work with Scriptable Render Pipelines, I will create a seperate repository for a version of this asset that works on SRPs soon.
+This asset does not work with Scriptable Render Pipelines, a version of this asset built for SRP's can be found [here](https://github.com/zacharypetersen1/FlexibleCelShader-SRP).
 
 
 

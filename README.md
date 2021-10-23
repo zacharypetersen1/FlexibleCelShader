@@ -4,7 +4,7 @@ Unity Asset store page found [here](https://assetstore.unity.com/packages/vfx/sh
 
 See the [Getting Started PDF](https://github.com/zacharypetersen1/FlexibleCelShader/blob/main/GettingStarted.pdf) for more information on how the asset works.
 
-You should clone this repo directly into your assets folder to use the assets. If you want to move the "FlexibleCelShader" folder somewhere else, make sure you open PresetHelper.cs and update the path to the "Presets" folder on line 13.
+If you want to place this asset somewhere that is not directly in your Unity project's "Assets" folder, be sure to open PresetHelper.cs and update the path to the "Presets" folder on line 13.
 
 For a verision of this asset that is compatible with URP/HDRP, go [here](https://github.com/zacharypetersen1/FlexibleCelShader-SRP).
 
